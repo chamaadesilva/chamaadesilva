@@ -11,7 +11,49 @@
   <img src="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cfea8357-3c51-48f7-a910-aca50d041375" style="width: 500px; height: 500px; border-radius: 18px !important;" />
 </p>
 
-### I'm Sithari & 22 years old. Enthusiastic student at IJSE, I am driven to succeed and equipped with a diverse skill set. Proficient at managing multiple tasks and thriving in high-pressure situations, I consistently achieve exemplary outcomes. My problem-solving approach is marked by creativity, and my eagerness to acquire new skills allows me to adapt seamlessly. Punctuality is paramount to me, whether for work or organized events. With ambition, dedication, and a commitment to continual growth, I am primed to excel as a software engineer.
+
+```java
+
+public class StudentProfile {
+
+    public static void main(String[] args) {
+        // Create an instance of the class
+        StudentProfile student = new StudentProfile();
+
+        // Call the methods to retrieve information
+        System.out.println("Name: " + student.getWhoAmI());
+        System.out.println("Age: 23");
+        System.out.println("Current Education: " + student.getCurrentEducation());
+        System.out.println("Current Learning: " + String.join(", ", student.getCurrentLearn()));
+        System.out.println("Hobbies: " + String.join(", ", student.getHobbies()));
+        System.out.println("Ambition: " + student.getAmbition());
+    }
+
+    public String getWhoAmI() {
+        return "Maneesha Gunawardhana";
+    }
+
+    public String getCurrentEducation() {
+        return "Enthusiastic student at IJSE (Institute Of JAVA Software Engineering)";
+    }
+
+    public String[] getCurrentLearn() {
+        String[] learning = {"JAVA", "MYSQL", "HTML", "CSS", "JAVASCRIPT"};
+        return learning;
+    }
+
+    public String[] getHobbies() {
+        String[] hobbies = {"Gaming", "Travelling", "Playing Cricket", "Swimming", "Riding bicycle"};
+        return hobbies;
+    }
+
+    public String getAmbition() {
+        return "Become a Software Engineer";
+    }
+}
+
+
+```
 
 ### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java** 
 
