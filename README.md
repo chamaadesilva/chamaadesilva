@@ -11,6 +11,7 @@
   <img src="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cfea8357-3c51-48f7-a910-aca50d041375" style="width: 500px; height: 500px; border-radius: 18px !important;" />
 </p>
 
+### I'm Maneesha Gunawardhana & 23 years old. Enthusiastic student at IJSE, I am driven to succeed and equipped with a diverse skill set. Proficient at managing multiple tasks and thriving in high-pressure situations, I consistently achieve exemplary outcomes. My problem-solving approach is marked by creativity, and my eagerness to acquire new skills allows me to adapt seamlessly. Punctuality is paramount to me, whether for work or organized events. With ambition, dedication, and a commitment to continual growth, I am primed to excel as a software engineer.
 
 ### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java** 
 
