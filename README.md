@@ -1,5 +1,5 @@
 # ꜱɪᴛʜᴀʀɪ ᴄʜᴀᴍᴀᴛʜᴋᴀ (ᴄʜᴀᴍᴀᴀᴅᴇꜱɪʟᴠᴀ 🌹) 🇱🇰 
-### ꜱᴛᴜᴅᴇɴᴛ @ ɪᴊꜱᴇ
+### ꜱᴛᴜᴅᴇɴᴛ @ Institute of Software Engineering (IJSE)
 
 <p align="center">
   <a href="https://skillicons.dev">
