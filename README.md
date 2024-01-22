@@ -12,7 +12,7 @@
 </p>
 
 
-```java
+```python
 
    class StudentProfile:
 
