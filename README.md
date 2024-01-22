@@ -1,9 +1,6 @@
 # ꜱɪᴛʜᴀʀɪ ᴄʜᴀᴍᴀᴛʜᴋᴀ (ᴄʜᴀᴍᴀᴀᴅᴇꜱɪʟᴠᴀ 🌹) 🇱🇰 
 ### ꜱᴛᴜᴅᴇɴᴛ @ ɪᴊꜱᴇ
 
-
-
-
 <p align="center">
   <a href="">
   <img src ="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cddf497e-fe2d-4f01-9265-5cf1c35638f9" width=200 height=200>
@@ -16,6 +13,12 @@
       <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=160" height="30" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cfea8357-3c51-48f7-a910-aca50d041375" style="width: 500px; height: 500px; border-radius: 18px !important;" />
+</p>
+
 
 ### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java** 
 
@@ -49,10 +52,6 @@
 ![2150710060]()
 
 </div>
-
-<p align="center">
-  <img src="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cfea8357-3c51-48f7-a910-aca50d041375" style="width: 500px; height: 500px; border-radius: 18px !important;" />
-</p>
 
 <p align="center">
   
