@@ -26,7 +26,7 @@
         return ["JAVA", "MYSQL", "HTML", "CSS", "JAVASCRIPT"]
 
     def get_hobbies(self):
-        return ["Gaming", "Travelling", "Playing Cricket", "Swimming", "Riding bicycle"]
+        return ["Travelling", "Swimming", "Riding bicycle"]
 
     def get_ambition(self):
         return "Become a Software Engineer"
@@ -38,10 +38,15 @@ if __name__ == "__main__":
     student = StudentProfile()
 
     print("Who Am I:", student.get_who_am_i())
+
     print("Current Education:", student.get_current_education())
+
     print("Current Learn:", ", ".join(student.get_current_learn()))
+
     print("Hobbies:", ", ".join(student.get_hobbies()))
+
     print("Ambition:", student.get_ambition())
+
     print("How to Reach:", student.how_to_reach_me())
 
 ```
