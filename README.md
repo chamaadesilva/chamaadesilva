@@ -25,6 +25,14 @@
 
 ### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **chamathkadesilva7@gmail.com**
 
+
+## **Badges** 🥇
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java" alt="Java Expert" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-green?style=for-the-badge&logo=mysql" alt="MySQL Intermediate" /> &nbsp;&nbsp;
+</p>
+
 <div align="center">
 
 | Title | Icon |
