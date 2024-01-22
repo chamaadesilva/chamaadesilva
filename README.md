@@ -15,6 +15,7 @@
 ```java
 
    class StudentProfile:
+
     def get_who_am_i(self):
         return "Sithari Chamathka"
 
@@ -30,25 +31,20 @@
     def get_ambition(self):
         return "Become a Software Engineer"
 
+    def how_to_reach_me(self):
+        return "chamathkadesilva7@gmail.com"
+
 if __name__ == "__main__":
     student = StudentProfile()
 
-    # Print student profile details
     print("Who Am I:", student.get_who_am_i())
     print("Current Education:", student.get_current_education())
     print("Current Learn:", ", ".join(student.get_current_learn()))
     print("Hobbies:", ", ".join(student.get_hobbies()))
     print("Ambition:", student.get_ambition())
+    print("How to Reach:", student.how_to_reach_me())
 
 ```
-
-### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java** 
-
-### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **ERP systems & CRM tools**
-
-### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Java, MySQL**
-
-### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **chamathkadesilva7@gmail.com**
 
 
 ## **Badges** 🥇
