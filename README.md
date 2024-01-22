@@ -24,3 +24,16 @@
 ### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Java, MySQL**
 
 ### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **chamathkadesilva7@gmail.com**
+
+<div align="center">
+
+| Title | Icon |
+| ------ | ------ |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,vscode" /> |
+| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=java" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=java,nodejs" /> |
+| UI Tools |  <img src="https://skillicons.dev/icons?i=figma" /> |
+| database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,regex" /> |                                                                
+</div>
