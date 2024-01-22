@@ -45,8 +45,14 @@
 | Back End |  <img src="https://skillicons.dev/icons?i=java,nodejs" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma" /> |
 | database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,regex" /> |                                                                
+| Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,regex" /> |        
+![2150710060]()
+
 </div>
+
+<p align="center">
+  <img src="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cfea8357-3c51-48f7-a910-aca50d041375" style="width: 500px; height: 500px; border-radius: 18px !important;" />
+</p>
 
 <p align="center">
   
