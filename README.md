@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=200" height="30" />
+      <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=160" height="30" />
   </a>
 </p>
