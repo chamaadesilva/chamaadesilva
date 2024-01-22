@@ -14,44 +14,31 @@
 
 ```java
 
-public class StudentProfile {
+   class StudentProfile:
+    def get_who_am_i(self):
+        return "Sithari Chamathka"
 
-    public static void main(String[] args) {
-        // Create an instance of the class
-        StudentProfile student = new StudentProfile();
+    def get_current_education(self):
+        return "IJSE (Institute Of JAVA Software Engineering)"
 
-        // Call the methods to retrieve information
-        System.out.println("Name: " + student.getWhoAmI());
-        System.out.println("Age: 23");
-        System.out.println("Current Education: " + student.getCurrentEducation());
-        System.out.println("Current Learning: " + String.join(", ", student.getCurrentLearn()));
-        System.out.println("Hobbies: " + String.join(", ", student.getHobbies()));
-        System.out.println("Ambition: " + student.getAmbition());
-    }
+    def get_current_learn(self):
+        return ["JAVA", "MYSQL", "HTML", "CSS", "JAVASCRIPT"]
 
-    public String getWhoAmI() {
-        return "Maneesha Gunawardhana";
-    }
+    def get_hobbies(self):
+        return ["Gaming", "Travelling", "Playing Cricket", "Swimming", "Riding bicycle"]
 
-    public String getCurrentEducation() {
-        return "Enthusiastic student at IJSE (Institute Of JAVA Software Engineering)";
-    }
+    def get_ambition(self):
+        return "Become a Software Engineer"
 
-    public String[] getCurrentLearn() {
-        String[] learning = {"JAVA", "MYSQL", "HTML", "CSS", "JAVASCRIPT"};
-        return learning;
-    }
+if __name__ == "__main__":
+    student = StudentProfile()
 
-    public String[] getHobbies() {
-        String[] hobbies = {"Gaming", "Travelling", "Playing Cricket", "Swimming", "Riding bicycle"};
-        return hobbies;
-    }
-
-    public String getAmbition() {
-        return "Become a Software Engineer";
-    }
-}
-
+    # Print student profile details
+    print("Who Am I:", student.get_who_am_i())
+    print("Current Education:", student.get_current_education())
+    print("Current Learn:", ", ".join(student.get_current_learn()))
+    print("Hobbies:", ", ".join(student.get_hobbies()))
+    print("Ambition:", student.get_ambition())
 
 ```
 
