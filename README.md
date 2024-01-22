@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/MySQL-Intermediate-green?style=for-the-badge&logo=mysql" alt="MySQL Intermediate" /> &nbsp;&nbsp;
 </p>
 
+<br><br>
+
 <div align="center">
 
 | Title | Icon |
