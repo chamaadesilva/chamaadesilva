@@ -2,9 +2,9 @@
 ### ꜱᴛᴜᴅᴇɴᴛ @ ɪᴊꜱᴇ
 
 <p align="center">
-  <a href="">
-  <img src ="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cddf497e-fe2d-4f01-9265-5cf1c35638f9" width=200 height=200>
-    </a>
+  <a href="https://skillicons.dev">
+      <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=160" height="30" />
+  </a>
 </p>
 
 <p align="center">
@@ -30,11 +30,10 @@
 
 <br><br>
 
-
 <p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=160" height="30" />
-  </a>
+  <a href="">
+  <img src ="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cddf497e-fe2d-4f01-9265-5cf1c35638f9" width=200 height=200>
+    </a>
 </p>
 
 <div align="center">
