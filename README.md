@@ -16,3 +16,11 @@
       <img src="https://komarev.com/ghpvc/?username=chamaadesilva&color=3CCF4E" width=160" height="30" />
   </a>
 </p>
+
+### - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ - **Java** 
+
+### - 👯 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ **ERP systems & CRM tools**
+
+### - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **Java, MySQL**
+
+### - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **chamathkadesilva7@gmail.com**
