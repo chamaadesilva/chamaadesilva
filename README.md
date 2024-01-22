@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maneesha-gunawardhana-b1a863245/">
+  <a href="">
   <img src ="https://github.com/chamaadesilva/chamaadesilva/assets/139870293/cddf497e-fe2d-4f01-9265-5cf1c35638f9" width=200 height=200>
     </a>
 </p>
@@ -37,3 +37,45 @@
 | database |  <img src="https://skillicons.dev/icons?i=mysql" /> |
 | Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,regex" /> |                                                                
 </div>
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamaadesilva&theme=tokyonight" />
+  
+ <p>
+   
+<br>
+   
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamaadesilva&theme=tokyonight&utcOffset=8" />
+  
+ <p>
+   
+   <p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chamaadesilva&theme=tokyonight" />
+  
+ <p>
+  
+
+  <br>
+<p align="center">
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=chamaadesilva&&show_icons=true&count_private=true&theme=github_dark">
+  
+ <p>
+
+ <br>
+
+<p align="center">
+        
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=chamaadesilva&theme=navy-gear">
+  
+<p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamaadesilva&layout=compact&theme=github_dark"/>
+
+<p>
